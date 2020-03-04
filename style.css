@@ -1,0 +1,23 @@
+           h1 {
+                color: blue; font-size:30px;border: 4px black solid;
+            }
+            h4 {
+                color: red;
+            }
+            p {
+                color: yellow;
+            }
+            .divClass{
+                color: brown  ; 
+                font-size: 20px; 
+            }
+            .spanId {
+                font-size: 18px; margin: 50px;
+            } 
+            .thirdDiv {
+                background-color:  hotpink ; border: 3px blue solid; padding: 50px; eigth: 600px; width: 500px; 
+            }
+            img {
+                width: 400px;
+            }
+        
